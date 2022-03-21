@@ -33,8 +33,3 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoohoo0889&theme=vue&show_icons=true)
