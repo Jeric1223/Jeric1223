@@ -1,4 +1,5 @@
 # JaeHyun, Jeric
+안녕하세요, 씨앤테크 플랫폼팀에서 백엔드 엔지니어로 재직중인 김재현입니다.
 
 ### ⚔️ Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=Express&logoColor=white"/>
