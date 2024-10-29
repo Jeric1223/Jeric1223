@@ -1,5 +1,5 @@
 # JaeHyun, Jeric
-Hi~ I'm Backend Developer || Frontend Developer
+백엔드 개발자, 프론트를 곁들인
 
 ### ⚔️ Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <br />
