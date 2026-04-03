@@ -101,7 +101,7 @@ hits 카운터
 |------|------|------|
 | 프레임워크 | Next.js 14 App Router | SSG로 배포 간편 |
 | 스타일링 | Tailwind CSS | 빠른 반응형 구현 |
-| 애니메이션 | Framer Motion | silverbeen 참고, 자연스러운 진입 효과 |
+| 애니메이션 | Framer Motion |  자연스러운 진입 효과 |
 | 테마 | next-themes | 다크/라이트 토글 |
 | 타이핑 효과 | 직접 구현 (useEffect) | 외부 라이브러리 불필요 |
 | 배포 | Vercel | Next.js 최적화, 무료 |
