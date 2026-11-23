@@ -4,6 +4,8 @@
 
 [GitHub](https://github.com/Jeric1223) · [Velog](https://velog.io/@hoohoo0889) · [npm](https://www.npmjs.com/package/@soehd0889/tossinvest-mcp)
 
+[![velog](https://velo-card.profilecard.workers.dev/api?name=hoohoo0889&layout=thumbnail&hide_tags=true&hide_follow=true)](https://velog.io/@hoohoo0889)
+
 ## 요즘 만드는 것
 
 ### [tossinvest-mcp](https://github.com/Jeric1223/tossinvest-mcp)
